@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*David Laughton
+ * June 4th 2019
+ * J1 problem
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
